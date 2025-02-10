@@ -82,3 +82,34 @@ Your LimaCharlie Agent should successfully install.
 
 ![image](https://github.com/user-attachments/assets/d7d2227f-adc4-4d8d-ae8e-bb638d1c21bd)
 
+To verify the service is running type Services into the Windows search bar and look for LimaCharlie.
+
+![image](https://github.com/user-attachments/assets/44de820a-b760-48f1-b95a-25d301d8ee9b)
+
+Minimize your VM and head back to the LimaCharlie website and under Sensors List you should see your VM computer under Hostname.
+
+![image](https://github.com/user-attachments/assets/b997207e-6859-4423-806e-1d9f58c881d5)
+
+Clicking on it you can see Sensor details for your VM.
+
+![image](https://github.com/user-attachments/assets/94d22084-7de5-4f31-a5da-18afaddb20d6)
+
+Event collection gives a list of event collection rules that are collected from your server. 
+
+![image](https://github.com/user-attachments/assets/5506669e-8e09-40ee-a129-78ff54a3e00f)
+
+LimaCharlie has the ability to access the file system of the sensor server remotely. It gives various options such as Inspect File Hash, Copy File Path, Move File, Delete File, and Download the File. 
+
+![image](https://github.com/user-attachments/assets/ec2d1d37-739a-4dfa-a552-0d131cb94a9c)
+
+LimaCharlie has a Live Feed where each event that is generated is sent over for review.
+
+![image](https://github.com/user-attachments/assets/4058401b-515e-4fca-b77b-ccac92cb6a83)
+
+In the Timeline section, you can see all events for the server sensor. For this server, I can see I'm getting DNS requests from different domains and IP addresses. In a real-world scenario you can click on each event and investigate. 
+
+![image](https://github.com/user-attachments/assets/1020a705-f9c4-4c83-860b-0cd792d1d436)
+
+Go to <a href="https://github.com/AlessandroZ/LaZagne/releases">LaZagne github releases</a> choose the latest release. 
+
+Download the LaZagne.exe
