@@ -193,7 +193,7 @@ On your new rule scroll down under Advanced click "Target Event" paste your whol
 
 ![image](https://github.com/user-attachments/assets/d1eb69bb-9b26-4de3-9d95-e684f3a04848)
 
-You should see a green "Match" where it goes through and tests each parameter to see if it is met. 
+You should see a green "Match" where it tests each parameter to see if it is met. 
 
 ![image](https://github.com/user-attachments/assets/f5accfbd-6c56-4998-a592-8976e9957548)
 
@@ -588,5 +588,9 @@ Now to test the whole Playbook. Re-emit the event from the Webhook. You should r
 ![image](https://github.com/user-attachments/assets/96fa662a-58d3-4f9b-a948-68457602e03b)
 
 ![image](https://github.com/user-attachments/assets/9f013fc4-99d2-442f-bd19-2db9d50749ae)
+
+Finished Tines Playbook:
+
+![image](https://github.com/user-attachments/assets/041fd0e1-5380-4b6c-bb24-253733fa93b4)
 
 END OF PROJECT
